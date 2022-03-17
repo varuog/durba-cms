@@ -3,7 +3,7 @@
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
-    "license": "GPL3",
+    "license": "GPL-3.0-only",
     "version": "dev-master",
     "require": {
         "php": "^7.3|^8.0",
